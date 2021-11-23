@@ -23,11 +23,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{79C85617-B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealEstateTechnicalTest.UnitTest", "RealEstateTechnicalTest.UnitTest\RealEstateTechnicalTest.UnitTest.csproj", "{4F3E2377-24F2-4F43-AD80-C5F93D18955B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8D38A5A1-3E3F-4231-B898-01E3DC04F43F}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Imagenes\MER.PNG = ..\..\Imagenes\MER.PNG
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
