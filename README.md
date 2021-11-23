@@ -7,18 +7,17 @@ La prueba técnica se desarrollo con arquitectura limpia, utilizando MediaTR com
 # MER de la base de datos
 ![MER](https://user-images.githubusercontent.com/67155415/142960955-3e3035cd-6350-4e92-bf94-64ca389e911f.PNG)
 # Ejecución
-El proyecto utiliza una metodología llamada code first que en base en las clases que se define en el proyecto genera la base de datos 
-Antes de ejecutar el proyecto es necesario que el servidor de base de datos tenga la autenticación mixta 
+El proyecto utiliza una metodología llamada code first, que consiste en definir las clases del proyecto previamente para generar la base de datos. Sin embargo, es necesario que el servidor de la base de datos tenga la autenticación mixta antes de ejecutar el proyecto.
 ![AutenticacionMixta](https://user-images.githubusercontent.com/67155415/142961295-c8100824-1123-40cc-b6f7-cd32ff80485c.PNG)
 
-Crear un login de usuario en la BD, con opción sql server authentication
+Crear un login de usuario en la BD, con opción sql server authentication.
 
 ![LoginUsuario](https://user-images.githubusercontent.com/67155415/142961371-6c13c971-d89a-4091-9e10-028c0370a574.PNG)
 
-En la parte de server Roles, agregar la opción de sysadmin
+En la parte de server Roles, agregar la opción de sysadmin.
 
 ![LoginPermisos](https://user-images.githubusercontent.com/67155415/142961523-a114576c-86d1-4a8a-9ad3-45db5493c2d7.PNG)
 
-Por último en la cadena de conexión modificar el usuario y password configurados previamente
+Por último, en la cadena de conexión modificar el usuario y el password configurados previamente.
 
 ![UsuarioBD](https://user-images.githubusercontent.com/67155415/142961612-07e20656-141b-4eb5-9dec-3fdd99b598c2.PNG)
