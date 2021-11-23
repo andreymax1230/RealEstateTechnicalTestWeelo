@@ -2,7 +2,7 @@
 Prueba técnica Weelo
 
 # Diseño
-La prueba tecnica se desarrollo con arquitectura limpia, utilizando MediaTR como la biblioteca de mensajeria entre la capa de aplicacion y el api, fluent validate para validar los modelos, AutoMapper para mapear las propiedades del dominio y poder representarlas en objetos para transportar datos(DTO) y por ultimo UnitTest para realizar pruebas unitarias 
+La prueba técnica se desarrollo con arquitectura limpia, utilizando MediaTR como la biblioteca de mensajería entre la capa de aplicación y el api, fluent validate para validar los modelos, AutoMapper para mapear las propiedades del dominio y poder representarlas en objetos para transportar datos(DTO) y por ultimo UnitTest para realizar pruebas unitarias 
 
 # MER de la base de datos
 ![MER](https://user-images.githubusercontent.com/67155415/142960955-3e3035cd-6350-4e92-bf94-64ca389e911f.PNG)
